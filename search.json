@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "say_hello\n\n say_hello (to)\n\nSay hello to somebody\n\nsay_hello(\"Isaac\")\n\n'Hello Isaac!'\n\n\n\n\n\nHelloSayer\n\n HelloSayer (to)\n\nSay hello to to using say_hello\n\n\nHelloSayer.say\n\n HelloSayer.say ()\n\nDo the saying\n\no = HelloSayer(\"Alexis\")\no.say()\n\n'Hello Alexis!'"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev_tutorial",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev_tutorial",
+    "section": "Install",
+    "text": "Install\npip install nbdev_tutorial"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev_tutorial",
+    "section": "How to use",
+    "text": "How to use"
+  }
+]
