@@ -26,4 +26,4 @@ d = { 'settings': { 'audience': 'Developers',
                 'tst_flags': 'notest',
                 'user': 'rdmolony',
                 'version': '0.0.1'},
-  'syms': {'nbdev_tutorial.core': {'nbdev_tutorial.core.foo': 'https://rdmolony.github.io/nbdev_tutorial/core.html#foo'}}}
+  'syms': {'nbdev_tutorial.core': {'nbdev_tutorial.core.say_hello': 'https://rdmolony.github.io/nbdev_tutorial/core.html#say_hello'}}}
